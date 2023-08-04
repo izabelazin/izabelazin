@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izabelazin
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently working as a Product Owner.
 
 <!---
 izabelazin/izabelazin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
